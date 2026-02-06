@@ -43,7 +43,7 @@ Continuos learning on AI, software structures, clean code and scalable apps.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## 🚀 Featured Projects
+## Projects
 
 ### [📦 Inventory Manager](https://github.com/Rui-Silva-code/inventory-manager)
 Full-stack inventory management system built with React, Node.js, and PostgreSQL. Solves real-world inventory tracking problems with modern web technologies.
