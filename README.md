@@ -55,7 +55,7 @@ Complete e-commerce web application with product management, shopping cart, and 
 - **Tech:** PHP, JavaScript, MySQL, HTML/CSS
 - **Features:** Product catalog, cart system, user authentication
 
-### [🔐 CRUD Authentication System](https://github.com/Rui-Silva-code/Crud-Authentication---PHP-MYSQL)
+### [🔐 CRUD Authentication System](https://github.com/Rui-Silva-code/CRUD-WITH-PDO)
 User authentication system demonstrating secure backend development practices.
 - **Tech:** PHP, MySQL
 - **Features:** Registration, login, data validation, CRUD operations
