@@ -65,15 +65,6 @@ Showcase of modern, responsive web layouts demonstrating CSS techniques and mobi
 - **Tech:** HTML, CSS, Bootstrap
 - **Features:** Multiple layouts, flexbox, CSS Grid
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rui-Silva-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rui-Silva-code&layout=compact&theme=tokyonight&hide_border=true)
-  
-</div>
 
 ## 🎓 Continuous Learning
 
